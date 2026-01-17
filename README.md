@@ -38,7 +38,7 @@ The system is designed for home aquariums and helps automate daily feeding while
 
 ---
 
-## Course Questions
+## Questions
 
 ### Q1 – What is the system boundary?
 The system includes the ESP32, servo motor, ultrasonic sensor, power supply, and web interface.  

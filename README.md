@@ -62,7 +62,6 @@ Ensuring reliable and repeatable food dosing and accurate low-level detection us
 - Ultrasonic sensor reports food level
 
 ### Q5 – Why is this not just a tutorial?
-The project extends basic tutorials by integrating:
 - Real-time scheduling
 - A complete web UI
 - Sensor-based monitoring

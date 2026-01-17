@@ -1,4 +1,4 @@
-# Smart Fish Feeder using ESP32
+# Smart Fish Feeder 
 
 ## General Description
 This project is an automatic and smart fish feeding system based on an ESP32 microcontroller.  

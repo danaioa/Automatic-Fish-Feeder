@@ -76,3 +76,15 @@ Yes. The ESP32 is required to:
 - Connect to WiFi
 - Synchronize time via NTP
 - Enable future notification features
+
+
+
+
+
+  ##Photo of the setup:
+  
+  <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/222d7c4c-fc62-49bb-8757-c7fed340816b" />
+
+  
+  
+  Click here for the video demonstrating functionality:  [https://youtu.be/iLezpLi28Ho](https://youtube.com/shorts/ywIzaLe-P98)
